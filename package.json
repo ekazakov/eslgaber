@@ -1,0 +1,21 @@
+{
+  "name": "eslgraber",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.30",
+    "cheerio": "^0.19.0",
+    "encoding": "^0.1.11",
+    "lodash": "^3.9.3",
+    "request-progress": "^0.3.1",
+    "request-promise": "^0.4.2",
+    "wgetjs": "^0.3.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
